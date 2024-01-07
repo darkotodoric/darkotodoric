@@ -5,4 +5,4 @@ My name is `Darko Todorić`. I've been coding for over 10 years, and I'm really 
 
 ### :globe_with_meridians: Find me around the web
 - [LinkedIn](https://www.linkedin.com/in/todoricdarko/)
-- [HackerRank](https://www.hackerrank.com/profile/darkotodoric)
+- [HackerRank](https://www.hackerrank.com/profile/darkotodoric) (In progress)
