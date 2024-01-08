@@ -9,3 +9,4 @@ I've been coding for over 10 years, and I'm really into making things work bette
 - [darkotodoric.com](https://darkotodoric.com/)
 - [linkedin.com](https://www.linkedin.com/in/todoricdarko/)
 - [hackerrank.com](https://www.hackerrank.com/profile/darkotodoric) (In progress)
+- [monkeytype.com](https://monkeytype.com/profile/darkotodoric)
