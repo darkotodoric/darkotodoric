@@ -11,3 +11,4 @@ I've been coding for over 10 years, and I'm really into making things work bette
 - [hackerrank.com](https://www.hackerrank.com/profile/darkotodoric) (In progress)
 - [monkeytype.com](https://monkeytype.com/profile/darkotodoric)
 - [news.ycombinator.com](https://news.ycombinator.com/user?id=darkotodoric)
+- [medium.com](https://medium.com/@darkotodoric)
