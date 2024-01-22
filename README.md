@@ -6,6 +6,8 @@ I've been coding for over 10 years, and I'm really into making things work bette
 #
 
 ### :earth_asia: Where to find me?
+Feel free to connect with me or follow my work through these platforms:
+
 - :earth_africa: My website: [darkotodoric.com](https://darkotodoric.com/)
 - :man_office_worker: [LinkedIn](https://www.linkedin.com/in/darkotodoric/)
 - :technologist: [DEV.to](https://dev.to/darkotodoric)
