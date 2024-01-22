@@ -6,10 +6,10 @@ I've been coding for over 10 years, and I'm really into making things work bette
 #
 
 ### :earth_asia: Where to find me
-- :earth_africa: On my website [darkotodoric.com](https://darkotodoric.com/)
-- :man_office_worker: On LinkedIn as [@darkotodoric](https://www.linkedin.com/in/darkotodoric/)
-- :technologist: On DEV.to as [@darkotodoric](https://dev.to/darkotodoric)
-- :newspaper: On Medium as [@darkotodoric](https://medium.com/@darkotodoric)
-- :male_detective: On HackerRank as [@darkotodoric](https://www.hackerrank.com/profile/darkotodoric)
-- :keyboard: On MonkeyType as [@darkotodoric](https://monkeytype.com/profile/darkotodoric)
-- :page_facing_up: On HackerNews as [@darkotodoric](https://news.ycombinator.com/user?id=darkotodoric)
+- :earth_africa: My website [darkotodoric.com](https://darkotodoric.com/)
+- :man_office_worker: [LinkedIn](https://www.linkedin.com/in/darkotodoric/)
+- :technologist: [DEV.to](https://dev.to/darkotodoric)
+- :newspaper: [Medium](https://medium.com/@darkotodoric)
+- :male_detective: [HackerRank](https://www.hackerrank.com/profile/darkotodoric)
+- :keyboard: [MonkeyType](https://monkeytype.com/profile/darkotodoric)
+- :page_facing_up: [HackerNews](https://news.ycombinator.com/user?id=darkotodoric)
