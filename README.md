@@ -8,10 +8,11 @@ I've been coding for over 10 years, and I'm really into making things work bette
 ### :earth_asia: Where to find me?
 Feel free to connect with me or follow my work through these platforms:
 
-- :earth_africa: My website: [darkotodoric.com](https://darkotodoric.com/)
-- :man_office_worker: [LinkedIn](https://www.linkedin.com/in/darkotodoric/)
-- :technologist: [DEV.to](https://dev.to/darkotodoric)
-- :newspaper: [Medium](https://medium.com/@darkotodoric)
-- :male_detective: [HackerRank](https://www.hackerrank.com/profile/darkotodoric)
-- :keyboard: [MonkeyType](https://monkeytype.com/profile/darkotodoric)
-- :page_facing_up: [HackerNews](https://news.ycombinator.com/user?id=darkotodoric)
+ [![darkotodoric.com](https://img.shields.io/badge/darkotodoric.com-323437?style=for-the-badge)](https://darkotodoric.com/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darkotodoric/)
+ [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@darkotodoric)
+ [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/darkotodoric)
+ [![HackerNews](https://img.shields.io/badge/Hacker%20News-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=darkotodoric)
+ [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/darkotodoric)
+ [![MonkeyType](https://img.shields.io/badge/MonkeyType-323437?style=for-the-badge&logo=MonkeyType&logoColor=B6961D)](https://monkeytype.com/profile/darkotodoric)
+
