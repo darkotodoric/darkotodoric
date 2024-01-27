@@ -4,7 +4,6 @@ I've been coding for over 10 years, and I'm really into making things work bette
 
 #
 
-### Where to find me? :earth_asia: 
 Feel free to connect with me or follow my work through these platforms:
 
  [![darkotodoric.com](https://img.shields.io/badge/darkotodoric.com-323437?style=for-the-badge)](https://darkotodoric.com/)
