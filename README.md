@@ -1,11 +1,10 @@
-# :wave: Hi there
-`Darko Todorić (Senior Software Engineer)`
+# Hi there, I am Darko :wave: 
 
 I've been coding for over 10 years, and I'm really into making things work better, keeping stuff safe, automating tasks, and playing around with cool tools. My expertise in performance optimization, large system management, and process automation allows me to dig deep into code to figure out how to make things faster, smoother, and more secure. I also enjoy messing around with artificial intelligence and ensuring that large-scale systems run efficiently and effectively.
 
 #
 
-### :earth_asia: Where to find me?
+### Where to find me? :earth_asia: 
 Feel free to connect with me or follow my work through these platforms:
 
  [![darkotodoric.com](https://img.shields.io/badge/darkotodoric.com-323437?style=for-the-badge)](https://darkotodoric.com/)
