@@ -1,6 +1,7 @@
 # Hi there, I am Darko :wave: 
 
-I've been coding for over 10 years, and I'm really into making things work better, keeping stuff safe, automating tasks, and playing around with cool tools. My expertise in performance optimization, large system management, and process automation allows me to dig deep into code to figure out how to make things faster, smoother, and more secure. I also enjoy messing around with artificial intelligence and ensuring that large-scale systems run efficiently and effectively.
+I have been programming for more than 13 years, throughout my career I have mostly worked with large systems where the focus is on optimization, performance and good organization in the team. I worked on the largest Serbian website for car sales as well as the largest open-access publisher in the world. I am interested in new technologies, new standards, improvements in both technical and personal aspects. I have been dealing with cyber security for over a decade, I have worked
+in the Serbian Secret Service (BIA) and I was one of the speakers at the OWASP conference related to security.
 
 #
 
