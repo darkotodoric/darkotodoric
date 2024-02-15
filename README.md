@@ -1,7 +1,6 @@
 # Hi there, I am Darko :wave: 
 
-I have been programming for more than 13 years, throughout my career I have mostly worked with large systems where the focus is on optimization, performance and good organization in the team. I worked on the largest Serbian website for car sales as well as the largest open-access publisher in the world. I am interested in new technologies, new standards, improvements in both technical and personal aspects. I have been dealing with cyber security for over a decade, I have worked
-in the Serbian Secret Service (BIA) and I was one of the speakers at the OWASP conference related to security.
+I have been programming for more than 13 years. Throughout my career, I have mostly worked with large systems, focusing on optimization, performance, and good team organization. I worked on the largest Serbian website for the sale of cars, as well as for the largest open-access publisher in the world. I am interested in exploring new technologies, new standards, improvements in both technical and personal aspects. For over a decade, I have been engaged in cybersecurity, I worked in the Serbian Secret Service (BIA) and I was a speaker at the OWASP conference on security topics.
 
 #
 
