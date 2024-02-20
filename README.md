@@ -12,6 +12,5 @@ Feel free to connect with me or follow my work through these platforms:
  [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/darkotodoric)
  [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x)](https://x.com/onlytodoric)
  [![HackerRank](https://img.shields.io/badge/-Hackerrank-FFFFFF?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/profile/darkotodoric) 
- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFFFFF?style=for-the-badge&logo=LeetCode)](https://leetcode.com/darkotodoric/) 
  [![SymfonyCasts](https://img.shields.io/badge/SymfonyCasts-1F2937?style=for-the-badge&logo=symfony)](https://symfonycasts.com/u/darkotodoric) 
  [![MonkeyType](https://img.shields.io/badge/MonkeyType-323437?style=for-the-badge&logo=MonkeyType)](https://monkeytype.com/profile/darkotodoric)
