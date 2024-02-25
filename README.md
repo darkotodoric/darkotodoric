@@ -7,10 +7,17 @@ I have been programming for more than 10 years. Throughout my career, I have mos
 Feel free to connect with me or follow my work through these platforms:
 
  [![darkotodoric.com](https://img.shields.io/badge/darkotodoric.com-323437?style=for-the-badge)](https://darkotodoric.com/)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darkotodoric/)
- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@darkotodoric)
- [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/darkotodoric)
- [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x)](https://x.com/onlytodoric)
- [![HackerRank](https://img.shields.io/badge/-Hackerrank-FFFFFF?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/profile/darkotodoric)
- [![SymfonyCasts](https://img.shields.io/badge/SymfonyCasts-1F2937?style=for-the-badge&logo=symfony)](https://symfonycasts.com/u/darkotodoric) 
- [![MonkeyType](https://img.shields.io/badge/MonkeyType-323437?style=for-the-badge&logo=MonkeyType)](https://monkeytype.com/profile/darkotodoric)
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/darkotodoric/)
+ [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@darkotodoric)
+ [![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge)](https://dev.to/darkotodoric)
+ [![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/onlytodoric)
+ [![HackerRank Badge](https://img.shields.io/badge/HackerRank-FFFFFF?logo=hackerrank&style=for-the-badge)](https://www.hackerrank.com/profile/darkotodoric)
+ [![Symfony Badge](https://img.shields.io/badge/SymfonyCasts-1F2937?logo=symfony&style=for-the-badge)](https://symfonycasts.com/u/darkotodoric) 
+ [![Monkeytype Badge](https://img.shields.io/badge/Monkeytype-323437?logo=monkeytype&style=for-the-badge)](https://monkeytype.com/profile/darkotodoric)
+
+#
+
+My certificates:
+ - [Symfony Certificates](https://symfonycasts.com/u/darkotodoric) issued by [SymfonyCasts](https://symfonycasts.com/)
+ - [SQL Certificate](https://www.hackerrank.com/certificates/748008f8dc8e) issued by [HackerRank](https://www.hackerrank.com/)
+ - [Problem Solving Certificate](https://www.hackerrank.com/certificates/03ec01ebe6d4) issued by [HackerRank](https://www.hackerrank.com/)
