@@ -21,4 +21,5 @@ My certificates:
  - [Symfony Certificates](https://symfonycasts.com/u/darkotodoric) issued by [SymfonyCasts](https://symfonycasts.com/)
  - [Software Engineer Certificate](https://www.hackerrank.com/certificates/0840d1d384cf) issued by [HackerRank](https://www.hackerrank.com/)
  - [SQL Certificate](https://www.hackerrank.com/certificates/748008f8dc8e) issued by [HackerRank](https://www.hackerrank.com/)
+ - [Problem Solving Certificate](https://www.hackerrank.com/certificates/03ec01ebe6d4) issued by [HackerRank](https://www.hackerrank.com/)
  - [Google Analytics Certificate](https://skillshop.credential.net/6d84951d-8382-4a07-be21-d77e7d75e5f0) issued by [Google Digital Academy (Skillshop)](https://skillshop.withgoogle.com/)
