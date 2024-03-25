@@ -16,8 +16,6 @@ Feel free to connect with me or follow my work through these platforms:
  [![Symfony Badge](https://img.shields.io/badge/SymfonyCasts-1F2937?logo=symfony&style=for-the-badge)](https://symfonycasts.com/u/darkotodoric) 
  [![Monkeytype Badge](https://img.shields.io/badge/Monkeytype-323437?logo=monkeytype&style=for-the-badge)](https://monkeytype.com/profile/darkotodoric)
 
- [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
-
 #
 
 My certificates:
