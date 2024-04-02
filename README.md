@@ -12,7 +12,6 @@ Feel free to connect with me or follow my work through these platforms:
  [![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge)](https://dev.to/darkotodoric)
  [![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/onlytodoric)
  [![RemoteOK Badge](https://img.shields.io/badge/remoteok.com-000?style=for-the-badge)](https://remoteok.com/@darkotodoric)
- [![Codeium Badge](https://img.shields.io/badge/codeium-090C13?logo=codeium&style=for-the-badge)](https://codeium.com/profile/darkotodoric)
  [![Monkeytype Badge](https://img.shields.io/badge/Monkeytype-323437?logo=monkeytype&style=for-the-badge)](https://monkeytype.com/profile/darkotodoric)
 
 #
