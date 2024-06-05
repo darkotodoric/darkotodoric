@@ -11,7 +11,6 @@ Feel free to connect with me or follow my work through these platforms:
  [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@darkotodoric)
  [![dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=fff&style=for-the-badge)](https://dev.to/darkotodoric)
  [![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/onlytodoric)
- [![Monkeytype Badge](https://img.shields.io/badge/Monkeytype-323437?logo=monkeytype&style=for-the-badge)](https://monkeytype.com/profile/darkotodoric)
 
 #
 
