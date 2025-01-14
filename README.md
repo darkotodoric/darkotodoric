@@ -1,6 +1,6 @@
 # Hi there, I am Darko :wave: 
 
-I have more than 10 years of programming experience. During my career, I was mostly involved in working on big systems: optimization, performance, and good team organization. I worked for the biggest Serbian website for the sale of cars and for the biggest open-access publisher in the world. I am always open to learning new technologies and standards, improving technical and personal skills. More than a decade of experience in the cybersecurity field and am a conference speaker for OWASP on security topics.
+I have more than 10 years of programming experience. During my career, I was mostly involved in working on big systems: optimization, performance and good team organization. I worked for the biggest Serbian website for the sale of cars and for the biggest open-access publisher in the world. I am always open to learning new technologies and standards, improving technical and personal skills. I have many years of experience in cyber security, so I was a speaker at the OWASP conference in Belgrade on the topic of security within web applications.
 
 #
 
