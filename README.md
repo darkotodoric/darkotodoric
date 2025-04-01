@@ -8,7 +8,8 @@ Feel free to connect me:
 
  [![darkotodoric.com](https://img.shields.io/badge/darkotodoric.com-323437?style=for-the-badge)](https://darkotodoric.com/)
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/darkotodoric/)
-
+ [![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/onlytodoric)
+ 
 #
 
 My certificates:
